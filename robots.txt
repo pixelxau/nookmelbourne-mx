@@ -1,0 +1,5 @@
+# Search engines and AI crawlers are welcome to read, index and quote this site.
+User-agent: *
+Allow: /
+
+Sitemap: https://nookmelbourne.mx/sitemap.xml
